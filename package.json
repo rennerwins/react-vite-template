@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "license": "MIT",
   "description": "ReactTemplate",
+  "repository": "https://github.com/rennerwins/react-vite-template",
   "author": "Win Eiwwongcharoen <win@morphos.is>"
 }
